@@ -1,0 +1,10 @@
+com\udes\descuento\DescuentoStrategy.class
+com\udes\command\CancelarPedidoCommand.class
+com\udes\descuento\DescuentoFijo.class
+com\udes\procesador\ProcesadorPedidos.class
+com\udes\Main.class
+com\udes\descuento\DescuentoPorcentaje.class
+com\udes\modelo\Pedido.class
+com\udes\command\CrearPedidoCommand.class
+com\udes\command\PedidoCommand.class
+com\udes\descuento\SinDescuento.class
